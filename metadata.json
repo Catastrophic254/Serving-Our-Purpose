@@ -1,0 +1,6 @@
+{
+  "name": "Daily Standup for Music Artists",
+  "description": "An AI-powered daily standup and workspace companion designed for musicians, songwriters, and producers to log progress, track music tasks, overcome creative blockers, and get custom reviews from an AI Executive Producer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
